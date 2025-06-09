@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Just-David17
-- 👀 I’m interested in ...web dev,app dev, game dev
-- 🌱 I’m currently learning ...Python,C++,Javascript
+- 👋 Hi, I’m David
+- 👀 I’m interested in ...backend development
+- 🌱 I’m currently learning ...Java(Spring framework)
 - 💞️ I’m looking to collaborate on ...ideas,projects etc
-- 📫 How to reach me ...@just_david.15(Instagram)
+- 📫 How to reach me ...@belovedUtd on Twitter
 
 <!---
 Just-David17/Just-David17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
